@@ -1,0 +1,19 @@
+.container-products{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+}
+
+.delete-btn{
+    position: relative;
+
+}
+.add-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+}
